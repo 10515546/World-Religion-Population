@@ -31,7 +31,7 @@
 
 <p>This dataset contains details about the segmentation of the world population based on the religion.</p>
 
-<h1>1.	WHAT MADE US CHOOSE THE PARTICULAR VISUAL ENCODINGS AND INTERACTION TECHNIQUES?</h1>
+<h2>1.	WHAT MADE US CHOOSE THE PARTICULAR VISUAL ENCODINGS AND INTERACTION TECHNIQUES?</h2>
 
 <ul>
 	
@@ -39,7 +39,7 @@ After researching the internet in order to find a good method to visualise the d
 
 </ul>
 
-<h1>2.	WHAT ALTERNATIVES DID WE CONSIDER AND HOW DID WE ARRIVE AT THE ULTIMATE CHOICE?</h1>
+<h2>2.	WHAT ALTERNATIVES DID WE CONSIDER AND HOW DID WE ARRIVE AT THE ULTIMATE CHOICE?</h2>
 
 <ul> 
 
