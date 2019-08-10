@@ -1,7 +1,6 @@
 <html>
 <head>
 	
-	<title>World Religion Population</title>
 </head>
 <body>
 <h2>&nbsp;<a href="https://www.dbs.ie/"><img alt="" src="https://debi0509.github.io/logo.jpg" style="width: 210px; height: 137px;" /></a></h2>
@@ -10,15 +9,15 @@
 
 <p>Team Members:</p>
 
-<p>&nbsp;&nbsp;&nbsp; Sushanti Acharya (1051413)</p>
+<p>&nbsp;&nbsp;&nbsp; Harry Gavali (10515546)</p>
 
 <p>&nbsp;&nbsp;&nbsp; Saurabh Wadhawane (10514801)</p>
 
-<p>&nbsp;&nbsp;&nbsp; Harry Gavali (10515546)</p>
+<p>&nbsp;&nbsp;&nbsp; Sushanti Acharya (1051413)</p>
 
 <h2>Introduction:</h2>
 
-<p>Visualization is an interactive process of data presentation. It allows the user to analyse the data in picturized format. Visualization is often used to display the story that the data witholds. Similarly, for our project we have created interactive visualisations for world demographics based on religion.</p>
+<p>In today’s world, visualising data has become one of the most important tasks as it helps each and everyone in order to understand the data and then draw conclusions from the same. Here we have attempted to visualise one such data in order to make it easy for the user to understand while at the same time enjoy the brilliant visualisations that were made using it.</p>
 
 <h2>Dataset Selection:</h2>
 
@@ -32,14 +31,22 @@
 
 <p>This dataset contains details about the segmentation of the world population based on the religion.</p>
 
-<h1>Why is this dataset ?</h1>
+<h1>1.	WHAT MADE US CHOOSE THE PARTICULAR VISUAL ENCODINGS AND INTERACTION TECHNIQUES?</h1>
 
 <ul>
-	<li>Of all the 195 countries in the world, there are roughly around 4200 religions adhered by different populations.</li>
-	<li>Many countries are known based on the religion followed by them. Understanding the diversity and analysing which country has the most dominant religion is what this dataset helps in.</li>
-	<li>The data of different religions across the globe is available in three sections,i.e, National, Regional and Global. It contains the data of various different religions and their sub categories that were recorded from the year 1945-2010</li>
-	<li>This dataset was used to develop informative visualizations and analysing which Country and/Continent is more diverse or which relation do most of the population in the world follow.</li>
+	
+After researching the internet in order to find a good method to visualise the data, we decided to use Python programming language for generating our results. Python has a vast resource of libraries which can be used to create exceptional visualisations. Its libraries like Plotly, Bokeh, Seaborn, Matplotlib, etc provide a plethora of resources and are very easy to use and implement.
+
 </ul>
+
+<h1>2.	WHAT ALTERNATIVES DID WE CONSIDER AND HOW DID WE ARRIVE AT THE ULTIMATE CHOICE?</h1>
+
+<ul> 
+
+We looked at Python, R, PowerBI, and Tableau as our primary choices for visualisations. Tableau was the most commonly used and had set themes and schemes, which led us to exclude it. Same was for PowerBI. Now we were left with R and Python. R had a wide range of choices too, but upon further inspection we found out that Python gave very crisp and extremely alterable code UI. Also, R was the most used option, hence we went with python in order to do something different and unique.
+
+</ul>
+
 
 <h2>Applications Used:</h2>
 
@@ -102,7 +109,7 @@
 
 <p>The project being a group assignment, every individual invested long hours in designing and developng of visualisations. Understanding the process, deciding the dataset, finalizing the designing language were some of the initial tasks completed as a team.</p>
 
-<p>Data preperation and visualization were equally distributed among all three. The whole process including the webpage creation took us around 80 hours, which involved the meetings, discussions and research on coding practice and learning different tools and libraries.</p>
+<p>Data preperation and visualization were equally distributed among all three. The whole process including the webpage creation took us around 30 hours, which involved the meetings, discussions and research on coding practice and learning different tools and libraries.</p>
 
 <p>During the process of developing this project, we learned visualization, but along with it we also experienced working as a team, dealing with agreements, disagreements, challenges, etc which helped in ou overall development.</p>
 
