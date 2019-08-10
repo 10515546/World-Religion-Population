@@ -5,7 +5,7 @@
 <body>
 <h2>&nbsp;<a href="https://www.dbs.ie/"><img alt="" src="https://debi0509.github.io/logo.jpg" style="width: 210px; height: 137px;" /></a></h2>
 
-<h1 style="text-align: center;"><u>World Religion Population</u></h1>
+
 
 <p>Team Members:</p>
 
